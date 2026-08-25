@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41CBB6-D631-47A4-BE68-B4321019A028}|Math.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41CBB6-D631-47A4-BE68-B4321019A028}|Math.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41CBB6-D631-47A4-BE68-B4321019A028}|Math.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\math\\\u6982\u5FF5\\\u5E38\u89C1\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41CBB6-D631-47A4-BE68-B4321019A028}|Math.csproj|solutionrelative:\u6982\u5FF5\\\u5E38\u89C1\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF41CBB6-D631-47A4-BE68-B4321019A028}|Math.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\math\\\u6982\u5FF5\\\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF41CBB6-D631-47A4-BE68-B4321019A028}|Math.csproj|solutionrelative:\u6982\u5FF5\\\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5E38\u89C1\u51FD\u6570.cs",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\\u6982\u5FF5\\\u5E38\u89C1\u51FD\u6570.cs",
+              "RelativeDocumentMoniker": "\u6982\u5FF5\\\u5E38\u89C1\u51FD\u6570.cs",
+              "ToolTip": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\\u6982\u5FF5\\\u5E38\u89C1\u51FD\u6570.cs",
+              "RelativeToolTip": "\u6982\u5FF5\\\u5E38\u89C1\u51FD\u6570.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T15:06:35.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u51FD\u6570.cs",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\\u6982\u5FF5\\\u51FD\u6570.cs",
+              "RelativeDocumentMoniker": "\u6982\u5FF5\\\u51FD\u6570.cs",
+              "ToolTip": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\\u6982\u5FF5\\\u51FD\u6570.cs",
+              "RelativeToolTip": "\u6982\u5FF5\\\u51FD\u6570.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T13:55:05.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T13:53:15.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

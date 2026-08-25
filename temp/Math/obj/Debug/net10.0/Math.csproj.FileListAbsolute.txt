@@ -1,0 +1,15 @@
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\bin\Debug\net10.0\Math.exe
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\bin\Debug\net10.0\Math.deps.json
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\bin\Debug\net10.0\Math.runtimeconfig.json
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\bin\Debug\net10.0\Math.dll
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\bin\Debug\net10.0\Math.pdb
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.AssemblyInfoInputs.cache
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.AssemblyInfo.cs
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.csproj.CoreCompileInputs.cache
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.sourcelink.json
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.dll
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\refint\Math.dll
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.pdb
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\Math.genruntimeconfig.cache
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\Math\obj\Debug\net10.0\ref\Math.dll
