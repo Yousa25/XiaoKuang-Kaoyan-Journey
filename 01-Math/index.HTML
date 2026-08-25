@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>考研数学 OOP 知识库 | 第一章：映射与函数</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            padding: 2rem;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #161b22;
+            padding: 2rem;
+            border-radius: 8px;
+            border: 1px solid #30363d;
+        }
+
+        h1 {
+            color: #58a6ff;
+            border-bottom: 2px solid #30363d;
+            padding-bottom: 0.5rem;
+        }
+
+        h2 {
+            color: #7ee787;
+            margin-top: 1.5rem;
+        }
+
+        .code-block {
+            background-color: #0d1117;
+            padding: 1rem;
+            border-radius: 6px;
+            font-family: 'Courier New', monospace;
+            color: #e6edf3;
+            overflow-x: auto;
+            border: 1px solid #30363d;
+            margin: 1rem 0;
+        }
+
+        .keyword {
+            color: #ff7b72;
+        }
+
+        .type {
+            color: #79c0ff;
+        }
+
+        .comment {
+            color: #8b949e;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #1f6feb;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>📘 考研数学 OOP 知识库</h1>
+        <p><span class="tag">Chapter 01</span> <strong>映射与函数 (Mapping & Functions)</strong></p>
+
+        <h2>🏗️ 核心抽象：什么是函数？</h2>
+        <p>在 OOP 视角下，函数不是简单的公式，而是一个封装了“映射法则”的对象。</p>
+
+        <div class="code-block">
+            <span class="comment">// 定义映射接口</span><br>
+            <span class="keyword">interface</span> <span class="type">IMapping</span>&lt;TInput, TOutput&gt; {<br>
+            &nbsp;&nbsp;TOutput <span class="type">Execute</span>(TInput x); <span class="comment">// 映射法则
+                f(x)</span><br>
+            &nbsp;&nbsp;<span class="type">Domain</span> GetDomain(); <span class="comment">// 获取定义域</span><br>
+            &nbsp;&nbsp;<span class="type">Codomain</span> GetCodomain(); <span class="comment">// 获取值域</span><br>
+            }
+        </div>
+
+        <h2>🧬 核心特性 (Properties)</h2>
+        <p>函数的四大特性，本质上是该对象的“状态评估方法”：</p>
+        <ul>
+            <li><strong>奇偶性 (Parity)</strong>：评估对象是否关于原点或Y轴对称。</li>
+            <li><strong>单调性 (Monotonicity)</strong>：评估输出值随输入值递增/递减的趋势。</li>
+            <li><strong>周期性 (Periodicity)</strong>：评估对象是否存在状态重置循环。</li>
+            <li><strong>有界性 (Boundedness)</strong>：评估输出值是否被限制在某个阈值内。</li>
+        </ul>
+
+        <p style="margin-top: 2rem; color: #8b949e; font-size: 0.9rem;">🚀 项目持续更新中... 下一步：复合函数与反函数的依赖注入</p>
+    </div>
+
+</body>
+
+</html>
