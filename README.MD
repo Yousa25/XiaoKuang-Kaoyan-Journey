@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Background-5%20Years%20C%23%20Dev-brightgreen" alt="Background">
   <img src="https://img.shields.io/badge/Target-Sichuan%20University%20CS-blue" alt="Target">
   <img src="https://img.shields.io/badge/Exam-2027%20Kaoyan-orange" alt="Exam">
-  <img src="https://img.shields.io/github/last-commit/你的用户名/CS-Kaoyan-Journey?label=Last%20Commit" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/Yousa25/XiaoKuang-Kaoyan-Journey?label=Last%20Commit" alt="Last Commit">
 </p>
 
 ###  个人简介与目标
