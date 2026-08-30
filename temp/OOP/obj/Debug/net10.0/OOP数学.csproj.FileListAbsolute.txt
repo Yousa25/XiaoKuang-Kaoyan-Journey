@@ -1,0 +1,5 @@
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\OOP\obj\Debug\net10.0\OOP数学.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\OOP\obj\Debug\net10.0\OOP数学.AssemblyInfoInputs.cache
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\OOP\obj\Debug\net10.0\OOP数学.AssemblyInfo.cs
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\OOP\obj\Debug\net10.0\OOP数学.csproj.CoreCompileInputs.cache
+D:\学习笔记\XiaoKuang-Kaoyan-Journey\temp\OOP\obj\Debug\net10.0\OOP数学.sourcelink.json
