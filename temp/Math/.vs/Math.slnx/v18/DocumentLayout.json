@@ -6,11 +6,11 @@
       "AbsoluteMoniker": "D:0:0:{36206AE5-CB58-40B3-AFDB-9E983161EE69}|..\\OOP\\OOP\u6570\u5B66.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\oop\\\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\math\\\u6982\u5FF5\\\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:\u6982\u5FF5\\\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36206AE5-CB58-40B3-AFDB-9E983161EE69}|..\\OOP\\OOP\u6570\u5B66.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36206AE5-CB58-40B3-AFDB-9E983161EE69}|..\\OOP\\OOP.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\math\\\u6982\u5FF5\\\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|solutionrelative:\u6982\u5FF5\\\u51FD\u6570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EE914C3-9360-69A1-3A90-840544A78614}|Math.csproj|d:\\\u5B66\u4E60\u7B14\u8BB0\\xiaokuang-kaoyan-journey\\temp\\math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,12 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "\u51FD\u6570.cs",
               "DocumentMoniker": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\Math\\\u6982\u5FF5\\\u51FD\u6570.cs",
               "RelativeDocumentMoniker": "\u6982\u5FF5\\\u51FD\u6570.cs",
@@ -36,12 +40,7 @@
               "RelativeToolTip": "\u6982\u5FF5\\\u51FD\u6570.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T14:37:55.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-08-30T14:37:55.387Z"
             },
             {
               "$type": "Document",
@@ -51,20 +50,20 @@
               "RelativeDocumentMoniker": "..\\OOP\\\u51FD\u6570.cs",
               "ToolTip": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\OOP\\\u51FD\u6570.cs",
               "RelativeToolTip": "..\\OOP\\\u51FD\u6570.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-30T14:02:17.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\OOP\\Program.cs",
               "RelativeDocumentMoniker": "..\\OOP\\Program.cs",
               "ToolTip": "D:\\\u5B66\u4E60\u7B14\u8BB0\\XiaoKuang-Kaoyan-Journey\\temp\\OOP\\Program.cs",
               "RelativeToolTip": "..\\OOP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-30T13:55:32.608Z",
               "EditorCaption": ""
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-30T13:55:28.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-30T13:55:28.69Z"
             }
           ]
         }
