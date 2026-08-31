@@ -36,6 +36,14 @@ namespace Math.概念
         /// </summary>
         /// <param name="x">自变量</param>
         /// <returns></returns>
+        /// 
+        public void 求定义域()
+        {
+            //1.函数规则，识别约束
+            //2.写出条件
+            //3.求解条件，得到定义域
+            //4.写出定义域
+        }
         public override double 对应法则(double x)
         {
             if (x > 0)
