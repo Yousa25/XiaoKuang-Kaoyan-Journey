@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP数学")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb3a83aea76735aa90bae87385c654fc8e8c288")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec20a9712f5c91d681abfaaa4b7c3183490eb2fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP数学")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP数学")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
